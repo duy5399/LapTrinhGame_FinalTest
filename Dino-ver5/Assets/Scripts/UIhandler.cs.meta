@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 72cb016787422f643bc7abe9c15b23d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mortPrefab: {fileID: 7296923107397519739, guid: 2b25bee5ef341ed4fb971d06b8bfca91,
+      type: 3}
+  - douxPrefab: {fileID: 8188713313480238705, guid: de6ca0ce7951b6d45bafafe5b08acc6d,
+      type: 3}
+  - roomListScreen: {instanceID: 0}
+  - alertQuit: {instanceID: 0}
+  - createRoomTxt: {instanceID: 0}
+  - joinRoomTxt: {instanceID: 0}
+  - createBtn: {instanceID: 0}
+  - joinBtn: {instanceID: 0}
+  - startBtn: {instanceID: 0}
+  - leaveBtn: {instanceID: 0}
+  - backToLobbyBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
